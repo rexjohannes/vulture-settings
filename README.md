@@ -43,3 +43,4 @@ Use .config load [link] at Vulture to load the Config!
 - Removed Vulture Config Server (Offline)
 - Added SpieleOase
 - Fixed SSL Issus
+- Added FAQ
