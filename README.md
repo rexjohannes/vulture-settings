@@ -22,6 +22,20 @@ Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
 Use .config load [link] at Vulture to load the Config!
 
+### How to add your Config or help with a Config:
+
+- Fork the Git Repo
+- Edit the Config or add a new
+- Open a Pull Request
+
+### How to Request a Config or a Update:
+
+- Go to Github and open a Issus.
+
+### How to Report a Issus or a AntiCheat Update:
+
+- Go to Github and open a Issus.
+
 ### Changelog:
 
 - Added RedeSky Config
