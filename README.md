@@ -1,8 +1,6 @@
 # vulture-settings
 
-Vultrure by Iotcb
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y5FRI-N9pKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Vulture: http://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
