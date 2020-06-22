@@ -12,6 +12,8 @@ BlockDrop: https://vulture-conf.rexjohannes.ovh/blockdrop.txt
 
 RedeSky: https://vulture-conf.rexjohannes.ovh/RedeSky.txt
 
+SpieleOase: https://vulture-conf.rexjohannes.ovh/SpieleOase.txt
+
 HiveSkyGiants: https://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
 
 Gomme Alpha: https://vulture-conf.rexjohannes.ovh/gommealpha.txt
@@ -21,3 +23,4 @@ Gomme Alpha: https://vulture-conf.rexjohannes.ovh/gommealpha.txt
 - Added RedeSky Config
 - Added Hive SkyGiants
 - Removed Vulture Config Server (Offline)
+- Added SpieleOase
