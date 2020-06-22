@@ -7,6 +7,8 @@ CubeOP: http://configs.vulture-client.info/531856270341308427/cubeop.txt
 
 BlockDrop: http://configs.vulture-client.info/531856270341308427/blockdrop.txt
 
+RedeSky: http://configs.vulture-client.info/531856270341308427/RedeSky.txt
+
 Gomme Alpha: http://configs.vulture-client.info/531856270341308427/gommealpha.txt
 
 ### Changelog:
