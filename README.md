@@ -12,3 +12,5 @@ RedeSky: http://configs.vulture-client.info/531856270341308427/RedeSky.txt
 Gomme Alpha: http://configs.vulture-client.info/531856270341308427/gommealpha.txt
 
 ### Changelog:
+
+- Added RedeSky Config
