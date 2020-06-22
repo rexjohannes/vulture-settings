@@ -4,19 +4,20 @@ Vulture: http://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
-Cubev4: http://configs.vulture-client.info/531856270341308427/cubev4.txt
+Cubev4: https://vulture-conf.rexjohannes.ovh/cubev4.txt
 
-CubeOP: http://configs.vulture-client.info/531856270341308427/cubeop.txt
+CubeOP: https://vulture-conf.rexjohannes.ovh/cubeop.txt
 
-BlockDrop: http://configs.vulture-client.info/531856270341308427/blockdrop.txt
+BlockDrop: https://vulture-conf.rexjohannes.ovh/blockdrop.txt
 
-RedeSky: http://configs.vulture-client.info/531856270341308427/RedeSky.txt
+RedeSky: https://vulture-conf.rexjohannes.ovh/RedeSky.txt
 
-HiveSkyGiants: http://configs.vulture-client.info/531856270341308427/HiveSkyGiants.txt
+HiveSkyGiants: https://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
 
-Gomme Alpha: http://configs.vulture-client.info/531856270341308427/gommealpha.txt
+Gomme Alpha: https://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
 ### Changelog:
 
 - Added RedeSky Config
 - Added Hive SkyGiants
+- Removed Vulture Config Server (Offline)
