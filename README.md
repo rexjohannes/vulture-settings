@@ -4,19 +4,19 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
-Cubev4: https://vulture-conf.rexjohannes.ovh/cubev4.txt
+Cubev4: http://vulture-conf.rexjohannes.ovh/cubev4.txt
 
-CubeOP: https://vulture-conf.rexjohannes.ovh/cubeop.txt
+CubeOP: http://vulture-conf.rexjohannes.ovh/cubeop.txt
 
-BlockDrop: https://vulture-conf.rexjohannes.ovh/blockdrop.txt
+BlockDrop: http://vulture-conf.rexjohannes.ovh/blockdrop.txt
 
-RedeSky: https://vulture-conf.rexjohannes.ovh/RedeSky.txt
+RedeSky: http://vulture-conf.rexjohannes.ovh/RedeSky.txt
 
-SpieleOase: https://vulture-conf.rexjohannes.ovh/SpieleOase.txt
+SpieleOase: http://vulture-conf.rexjohannes.ovh/SpieleOase.txt
 
-HiveSkyGiants: https://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
+HiveSkyGiants: http://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
 
-Gomme Alpha: https://vulture-conf.rexjohannes.ovh/gommealpha.txt
+Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
 ### Changelog:
 
@@ -24,3 +24,4 @@ Gomme Alpha: https://vulture-conf.rexjohannes.ovh/gommealpha.txt
 - Added Hive SkyGiants
 - Removed Vulture Config Server (Offline)
 - Added SpieleOase
+- Fixed SSL Issus
