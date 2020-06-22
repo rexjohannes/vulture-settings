@@ -18,6 +18,10 @@ HiveSkyGiants: http://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
 
 Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
+### How to use:
+
+Use .config load [link] at Vulture to load the Config!
+
 ### Changelog:
 
 - Added RedeSky Config
