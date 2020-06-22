@@ -24,3 +24,4 @@ skybattle
 skywars.world
 nerux woolbattle
 gomme endergames
+blocksmc
