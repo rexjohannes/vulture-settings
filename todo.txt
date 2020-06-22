@@ -22,3 +22,5 @@ mbars
 neruxvace
 skybattle
 skywars.world
+nerux woolbattle
+gomme endergames
