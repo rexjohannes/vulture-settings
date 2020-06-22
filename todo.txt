@@ -20,3 +20,5 @@ Minesucht
 SpieleOase
 mbars
 neruxvace
+skybattle
+skywars.world
