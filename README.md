@@ -1,6 +1,6 @@
 # vulture-settings
 
-Vulture: http://vulture-client.info/
+Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
