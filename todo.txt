@@ -4,11 +4,9 @@ Twerion Config
 mc.comugamers.com
 omegacraft.cl
 mc.gamster.org
-MCCentral
 Hypixel Config
 mclabs_comugamers
 hivemcsg
-HiveSkyGiants
 Pika
 RewiBW
 HiveMC
