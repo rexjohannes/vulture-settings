@@ -14,6 +14,8 @@ RedeSky: http://vulture-conf.rexjohannes.ovh/RedeSky.txt
 
 SpieleOase: http://vulture-conf.rexjohannes.ovh/SpieleOase.txt
 
+MCCentral: http://vulture-conf.rexjohannes.ovh/mccentral.txt
+
 HiveSkyGiants: http://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
 
 Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
@@ -44,3 +46,4 @@ Use .config load [link] at Vulture to load the Config!
 - Added SpieleOase
 - Fixed SSL Issus
 - Added FAQ
+- Added MCCentral 
