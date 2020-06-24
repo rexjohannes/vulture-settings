@@ -30,7 +30,7 @@ McCentralV1: http://configs.vulture-client.info/478595449708871690/McCentral_V1.
 
 MCLabs (can be outdated): https://raw.githubusercontent.com/ReeapeX/vultureconfig/master/mclabs_comugamers
 
-Legit: http://configs.vulture-client.info/478595449708871690/Legit_V0.1.txt
+Legit (beta): http://configs.vulture-client.info/478595449708871690/Legit_V0.1.txt
 
 ### How to use:
 
