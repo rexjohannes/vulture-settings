@@ -47,3 +47,4 @@ Use .config load [link] at Vulture to load the Config!
 - Fixed SSL Issus
 - Added FAQ
 - Added MCCentral 
+- Updated Cube Configs (Fixed ChestStealer and InvCleaner)
