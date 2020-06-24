@@ -20,6 +20,29 @@ HiveSkyGiants: http://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
 
 Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
+### Vulture-Configs by ReapeX (can be outdated)
+
+CubeCraft V2: http://configs.vulture-client.info/478595449708871690/CubeCraft_V2.txt
+
+RedeSky Config by ReapeX:
+
+V1: https://raw.githubusercontent.com/ReeapeX/vultureconfig/master/RedeSky
+
+V2: http://configs.vulture-client.info/478595449708871690/Rede_Sky.txt
+
+V3: http://configs.vulture-client.info/478595449708871690/RedeSky_V3.txt
+
+V3Hotfix(Aura): http://configs.vulture-client.info/478595449708871690/RedeSky_V3Hotfix.txt
+
+
+CubeCraft Config by ReapeX:
+
+V1: http://configs.vulture-client.info/478595449708871690/CubeCraft_V1.txt
+
+V2: http://configs.vulture-client.info/478595449708871690/CubeCraft_V2.txt
+
+McCentral Config by ReapeX: http://configs.vulture-client.info/478595449708871690/McCentral_V1.txt
+
 ### How to use:
 
 Use .config load [link] at Vulture to load the Config!
