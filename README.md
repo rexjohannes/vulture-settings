@@ -53,6 +53,8 @@ Use .config load [link] at Vulture to load the Config!
 - Edit the Config or add a new
 - Open a Pull Request
 
+- or use @rexjohannes98 at the tanoshii discord an i invite you to the repo.
+
 ### How to Request a Config or a Update:
 
 - Go to Github and open a Issus.
