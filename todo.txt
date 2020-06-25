@@ -25,3 +25,4 @@ blocksmc
 legit config
 mineplex
 Introuble.de
+antiac.net
