@@ -32,6 +32,10 @@ MCLabs (can be outdated): https://raw.githubusercontent.com/ReeapeX/vultureconfi
 
 Legit (beta): http://configs.vulture-client.info/478595449708871690/Legit_V0.1.txt
 
+### Vulture-Configs by ReapeX and rexjohannes98
+
+
+
 ### How to use:
 
 Use .config load [link] at Vulture to load the Config!
@@ -60,3 +64,4 @@ Use .config load [link] at Vulture to load the Config!
 - Added FAQ
 - Added MCCentral 
 - Updated Cube Configs (Fixed ChestStealer and InvCleaner)
+- added legit config
