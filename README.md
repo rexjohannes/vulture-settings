@@ -52,9 +52,7 @@ Use .config load [link] at Vulture to load the Config!
 
 - Added RedeSky Config
 - Added Hive SkyGiants
-- Removed Vulture Config Server (Offline)
 - Added SpieleOase
-- Fixed SSL Issus
 - Added FAQ
 - Added MCCentral 
 - Updated Cube Configs (Fixed ChestStealer and InvCleaner)
