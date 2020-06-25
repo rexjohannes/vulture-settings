@@ -4,9 +4,7 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
-Cubev4: http://vulture-conf.rexjohannes.ovh/cubev4.txt
-
-CubeOP: http://vulture-conf.rexjohannes.ovh/cubeop.txt
+CubeHotfix: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/cubehotfix.txt
 
 BlockDrop: http://vulture-conf.rexjohannes.ovh/blockdrop.txt
 
@@ -22,13 +20,14 @@ Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
 ### Vulture-Configs by ReapeX
 
-CubeCraft V2: http://configs.vulture-client.info/478595449708871690/CubeCraft_V2.txt
-
 RedeSky V3(Hotfix): http://configs.vulture-client.info/478595449708871690/RedeSky_V3Hotfix.txt
 
 McCentralV1: http://configs.vulture-client.info/478595449708871690/McCentral_V1.txt
 
-MCLabs (can be outdated): https://raw.githubusercontent.com/ReeapeX/vultureconfig/master/mclabs_comugamers
+### Vulture-Configs by ReapeX and rexjohannes98
+
+Legit: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/legit.txt
+
 
 ### How to use:
 
@@ -39,8 +38,6 @@ Use .config load [link] at Vulture to load the Config!
 - Fork the Git Repo
 - Edit the Config or add a new
 - Open a Pull Request
-
-- or use @rexjohannes98 at the tanoshii discord an i invite you to the repo.
 
 ### How to Request a Config or a Update:
 
@@ -54,9 +51,16 @@ Use .config load [link] at Vulture to load the Config!
 
 - Added RedeSky Config
 - Added Hive SkyGiants
-- Removed Vulture Config Server (Offline)
 - Added SpieleOase
-- Fixed SSL Issus
 - Added FAQ
 - Added MCCentral 
 - Updated Cube Configs (Fixed ChestStealer and InvCleaner)
+- added legit config
+- Added CubeHotfix
+- Added outdated configs
+
+### Outdated Configs:
+
+Cubev4: http://vulture-conf.rexjohannes.ovh/cubev4.txt
+
+CubeOP: http://vulture-conf.rexjohannes.ovh/cubeop.txt
