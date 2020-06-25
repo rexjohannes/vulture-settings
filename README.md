@@ -24,10 +24,9 @@ RedeSky V3(Hotfix): http://configs.vulture-client.info/478595449708871690/RedeSk
 
 McCentralV1: http://configs.vulture-client.info/478595449708871690/McCentral_V1.txt
 
-Legit (beta): http://configs.vulture-client.info/478595449708871690/Legit_V0.1.txt
-
 ### Vulture-Configs by ReapeX and rexjohannes98
 
+Legit: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/legit.txt
 
 
 ### How to use:
