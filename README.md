@@ -4,9 +4,7 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
-Cubev4: http://vulture-conf.rexjohannes.ovh/cubev4.txt
-
-CubeOP: http://vulture-conf.rexjohannes.ovh/cubeop.txt
+CubeHotfix: 
 
 BlockDrop: http://vulture-conf.rexjohannes.ovh/blockdrop.txt
 
@@ -22,13 +20,9 @@ Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
 
 ### Vulture-Configs by ReapeX
 
-CubeCraft V2: http://configs.vulture-client.info/478595449708871690/CubeCraft_V2.txt
-
 RedeSky V3(Hotfix): http://configs.vulture-client.info/478595449708871690/RedeSky_V3Hotfix.txt
 
 McCentralV1: http://configs.vulture-client.info/478595449708871690/McCentral_V1.txt
-
-MCLabs (can be outdated): https://raw.githubusercontent.com/ReeapeX/vultureconfig/master/mclabs_comugamers
 
 Legit (beta): http://configs.vulture-client.info/478595449708871690/Legit_V0.1.txt
 
@@ -65,3 +59,10 @@ Use .config load [link] at Vulture to load the Config!
 - Added MCCentral 
 - Updated Cube Configs (Fixed ChestStealer and InvCleaner)
 - added legit config
+- Added CubeHotfix
+
+### Outdated Configs:
+
+Cubev4: http://vulture-conf.rexjohannes.ovh/cubev4.txt
+
+CubeOP: http://vulture-conf.rexjohannes.ovh/cubeop.txt
