@@ -61,6 +61,6 @@ Use .config load [link] at Vulture to load the Config!
 
 ### Outdated Configs:
 
-Cubev4: http://vulture-conf.rexjohannes.ovh/cubev4.txt
+Cubev4: https://raw.githubusercontent.com/rexjohannes/vulture-settings/development/cubev4.txt
 
-CubeOP: http://vulture-conf.rexjohannes.ovh/cubeop.txt
+CubeOP: https://raw.githubusercontent.com/rexjohannes/vulture-settings/development/cubeop.txt
