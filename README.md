@@ -6,17 +6,17 @@ Vulture: https://vulture-client.info/
 
 CubeHotfix: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/cubehotfix.txt
 
-BlockDrop: http://vulture-conf.rexjohannes.ovh/blockdrop.txt
+BlockDrop: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/blockdrop.txt
 
-RedeSky: http://vulture-conf.rexjohannes.ovh/RedeSky.txt
+RedeSky: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/RedeSky.txt
 
-SpieleOase: http://vulture-conf.rexjohannes.ovh/SpieleOase.txt
+SpieleOase: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/SpieleOase.txt
 
-MCCentral: http://vulture-conf.rexjohannes.ovh/mccentral.txt
+MCCentral: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/mccentral.txt
 
-HiveSkyGiants: http://vulture-conf.rexjohannes.ovh/HiveSkyGiants.txt
+HiveSkyGiants: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveSkyGiants.txt
 
-Gomme Alpha: http://vulture-conf.rexjohannes.ovh/gommealpha.txt
+Gomme Alpha: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/gommealpha.txt
 
 ### Vulture-Configs by ReapeX
 
