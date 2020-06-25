@@ -60,6 +60,7 @@ Use .config load [link] at Vulture to load the Config!
 - Updated Cube Configs (Fixed ChestStealer and InvCleaner)
 - added legit config
 - Added CubeHotfix
+- Added outdated configs
 
 ### Outdated Configs:
 
