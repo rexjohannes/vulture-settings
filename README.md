@@ -28,6 +28,10 @@ McCentralV1: http://configs.vulture-client.info/478595449708871690/McCentral_V1.
 
 Legit: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/legit.txt
 
+### Other Vulture-Configs
+
+
+
 
 ### How to use:
 
@@ -56,7 +60,5 @@ Use .config load [link] at Vulture to load the Config!
 - Added MCCentral 
 - Updated Cube Configs (Fixed ChestStealer and InvCleaner)
 - added legit config
-- Added CubeHotfix
-- Added outdated configs
 - Updated Cube
 
