@@ -1,0 +1,203 @@
+ConfigName#<Aro>
+InventoryCleaner:InventoryCleanerOpen inventory:true
+InventoryCleaner:InventoryCleanerSort inventory:true
+InventoryCleaner:InventoryCleanerDelay:0.0
+InventoryCleaner:InventoryCleanerSword slot:1.0
+InventoryCleaner:InventoryCleanerShow in List:true
+Velocity:VelocityModes:AAC Push
+Velocity:VelocityHorizontal:0.8
+Velocity:VelocityVertical:0.8
+Velocity:VelocityShow in List:true
+ChestStealer:ChestStealerClose screen:true
+ChestStealer:ChestStealerCheck name:true
+ChestStealer:ChestStealerDelay:0.0
+ChestStealer:ChestStealerOpening delay:41.0
+ChestStealer:ChestStealerShow in List:true
+Speed:SpeedModes:AAC Bhop
+Speed:SpeedShow in List:true
+RenderChanger:RenderChangerItem to view:true
+RenderChanger:RenderChangerHigher held item:true
+RenderChanger:RenderChangerLittle entities:false
+RenderChanger:RenderChangerFlip entities:false
+RenderChanger:RenderChangerBig heads:false
+RenderChanger:RenderChangerShow in List:true
+InventoryWalk:InventoryWalkShow in List:true
+AutoArmor:AutoArmorOpen inventory:true
+AutoArmor:AutoArmorDelay:0.0
+AutoArmor:AutoArmorShow in List:true
+NoScoreboard:NoScoreboardShow in List:true
+TerrainSpeed:TerrainSpeedKeep speed:true
+TerrainSpeed:TerrainSpeedFactor:10.0
+TerrainSpeed:TerrainSpeedShow in List:true
+InfiniteReach:InfiniteReachHit delay:429.0
+InfiniteReach:InfiniteReachAura:false
+InfiniteReach:InfiniteReachBlockPos:false
+InfiniteReach:InfiniteReachAura players:true
+InfiniteReach:InfiniteReachAura animals:false
+InfiniteReach:InfiniteReachAura mobs:false
+InfiniteReach:InfiniteReachShow in List:true
+ChestESP:ChestESPHive chests:false
+ChestESP:ChestESPModes:Box
+ChestESP:ChestESPClient color:false
+ChestESP:ChestESPBrightening:3.0
+ChestESP:ChestESPWidth:1.5
+ChestESP:ChestESPAlpha:50.0
+ChestESP:ChestESPShow in List:true
+BlockOverlay:BlockOverlayDepth:false
+BlockOverlay:BlockOverlayShow in List:true
+EnemyFinder:EnemyFinderUpdate delay:1000.0
+EnemyFinder:EnemyFinderShow in List:true
+NameProtect:NameProtectShow in List:true
+Performance:PerformanceShow in List:true
+DamageHits:DamageHitsShow in List:true
+PotionSaver:PotionSaverShow in List:true
+Scaffold:ScaffoldSprint:false
+Scaffold:ScaffoldSneak:false
+Scaffold:ScaffoldSilent:true
+Scaffold:ScaffoldTimer:true
+Scaffold:ScaffoldNo swing:true
+Scaffold:ScaffoldDisplay block count:false
+Scaffold:ScaffoldDelay:367.0
+Scaffold:ScaffoldTimer speed:2.1
+Scaffold:ScaffoldModes:AAC
+Scaffold:ScaffoldShow in List:true
+Trajectories:TrajectoriesShow in List:true
+NoHurtCam:NoHurtCamShow in List:true
+Regenerate:RegeneratePackets:1.0
+Regenerate:RegenerateRetry delay:4000.0
+Regenerate:RegenerateModes:Packet
+Regenerate:RegenerateShow in List:true
+AutoClicker:AutoClickerMax CPS:20.0
+AutoClicker:AutoClickerMin CPS:16.0
+AutoClicker:AutoClickerPlace:false
+AutoClicker:AutoClickerShow in List:true
+BowAimbot:BowAimbotAimlock:false
+BowAimbot:BowAimbotAuto release:true
+BowAimbot:BowAimbotPrediction factor:6.0
+BowAimbot:BowAimbotShow in List:true
+WorldTime:WorldTimeTime:10.0
+WorldTime:WorldTimeShow in List:true
+Fly:FlyModes:HiveMC
+Fly:FlyAir bobbing:true
+Fly:FlyMotion y:1.0
+Fly:FlyBoost:1.0
+Fly:FlyCube boost motion y:0.31
+Fly:FlyShow in List:true
+ChestAura:ChestAuraRange:4.0
+ChestAura:ChestAuraThrough walls:false
+ChestAura:ChestAuraShow in List:true
+Nametags:NametagsShow in List:true
+EntityESP:EntityESPIgnore nametags:false
+EntityESP:EntityESPPlayers:true
+EntityESP:EntityESPAnimals:true
+EntityESP:EntityESPMobs:true
+EntityESP:EntityESPItems:true
+EntityESP:EntityESPClient color:false
+EntityESP:EntityESPModes:Box
+EntityESP:EntityESPWidth:1.5
+EntityESP:EntityESPAlpha:50.0
+EntityESP:EntityESPShow in List:true
+RearView:RearViewShow in List:true
+FullBright:FullBrightShow in List:true
+CubeClip:CubeClipShow in List:true
+AutoTool:AutoToolSilent:true
+AutoTool:AutoToolShow in List:true
+Teleport:TeleportShow in List:true
+ClickGui:ClickGuiAnimations:true
+ClickGui:ClickGuiParticles:true
+ClickGui:ClickGuiFlow:true
+ClickGui:ClickGuiFlow factor:3.0
+ClickGui:ClickGuiTheme:Dark
+ClickGui:ClickGuiShow in List:true
+Aura:AuraAuto block:false
+Aura:AuraPredict:true
+Aura:AuraAimlock:false
+Aura:AuraParticles:true
+Aura:AuraRaycast:true
+Aura:AuraThrough walls:true
+Aura:AuraStrafing:false
+Aura:AuraNo swing:false
+Aura:AuraStop sprint:false
+Aura:AuraInfo:true
+Aura:AuraClose screen:false
+Aura:AuraDisable on death:true
+Aura:AuraFail hit:true
+Aura:AuraPlayers:true
+Aura:AuraAnimals:false
+Aura:AuraMobs:false
+Aura:AuraRange:5.2
+Aura:AuraMax CPS:16.0
+Aura:AuraMin CPS:4.0
+Aura:AuraMax turn speed:20.0
+Aura:AuraMin turn speed:15.0
+Aura:AuraFOV:180.0
+Aura:AuraFail hit count:1.0
+Aura:AuraWall range:3.0
+Aura:AuraESP modes:Line
+Aura:AuraShow in List:true
+FastUse:FastUseNot moving:true
+FastUse:FastUsePackets:1.0
+FastUse:FastUseShow in List:true
+Step:StepHeight:1.0
+Step:StepShow in List:true
+NoSlow:NoSlowStrafe factor:0.6
+NoSlow:NoSlowForward factor:0.6
+NoSlow:NoSlowPacket:false
+NoSlow:NoSlowShow in List:true
+Tracers:TracersFeet:false
+Tracers:TracersOutlined:false
+Tracers:TracersShow in List:true
+Friends:FriendsCancel attacks:true
+Friends:FriendsShow in List:true
+Chams:ChamsColored:false
+Chams:ChamsEntities:true
+Chams:ChamsItems:true
+Chams:ChamsChests:true
+Chams:ChamsShow in List:true
+Fucker:FuckerModes:Bed
+Fucker:FuckerRange:4.0
+Fucker:FuckerShow in List:true
+Teams:TeamsShow in List:true
+NoBob:NoBobShow in List:true
+Tower:TowerSilent:true
+Tower:TowerTimer:true
+Tower:TowerNo swing:false
+Tower:TowerDisplay block count:true
+Tower:TowerDelay:0.0
+Tower:TowerTimer speed:4.1
+Tower:TowerModes:Jump
+Tower:TowerShow in List:true
+NoFall:NoFallModes:HiveMC
+NoFall:NoFallShow in List:true
+Strafe:StrafeShow in List:true
+Reach:ReachAttack range:7.0
+Reach:ReachInteract range:5.5
+Reach:ReachShow in List:true
+Sprint:SprintAll directions:false
+Sprint:SprintShow in List:true
+Swing:SwingModes:Lowswing
+Swing:SwingBlockModes:Stab
+Swing:SwingShow in List:true
+Blink:BlinkShow in List:true
+HUD:HUDNotifications:true
+HUD:HUDLogo:true
+HUD:HUDInfo:false
+HUD:HUDBackground:true
+HUD:HUDKöftespieß:false
+HUD:HUDRainbow:false
+HUD:HUDCompass:true
+HUD:HUDMinimap:true
+HUD:HUDBlur:true
+HUD:HUDBetterHUD:true
+HUD:HUDCrosshair:true
+HUD:HUDRainbow speed:10.0
+HUD:HUDRainbow offset:2.0
+HUD:HUDBlur strength:2.0
+HUD:HUDFonts:Verdana
+HUD:HUDShow in List:true
+FOV:FOVValue:1.0
+FOV:FOVShow in List:true
+Clip:ClipModes:Vertical
+Clip:ClipNegative:true
+Clip:ClipStrength:0.5
+Clip:ClipShow in List:true
