@@ -6,8 +6,6 @@ Vulture: https://vulture-client.info/
 
 CubeV6: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV6.txt
 
-BlockDrop: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/blockdrop.txt
-
 RedeSky: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/RedeSky.txt
 
 SpieleOase: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/SpieleOase.txt
@@ -15,8 +13,6 @@ SpieleOase: https://raw.githubusercontent.com/rexjohannes/vulture-settings/maste
 MCCentral: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/mccentral.txt
 
 HiveSkyGiants: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveSkyGiants.txt
-
-Gomme Alpha: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/gommealpha.txt
 
 ### Vulture-Configs by ReapeX
 
@@ -42,6 +38,11 @@ ComugermsOPV2 by Maxking2308 aka MaxCrackt: https://raw.githubusercontent.com/re
 
 Your? Open a Issus!
 
+### Unstable Vulture-Configs
+
+Gomme Alpha: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/gommealpha.txt
+
+BlockDrop: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/blockdrop.txt
 
 ### How to use:
 
