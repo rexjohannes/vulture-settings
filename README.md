@@ -4,7 +4,7 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
-CubeHotfix: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/cubehotfixv2.txt
+CubeV6: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV6.txt
 
 BlockDrop: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/blockdrop.txt
 
@@ -58,6 +58,7 @@ Use .config load [link] at Vulture to load the Config!
 - added legit config
 - Added CubeHotfix
 - Added outdated configs
+- Updated Cube
 
 ### Outdated Configs:
 
