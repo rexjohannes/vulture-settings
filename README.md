@@ -36,6 +36,16 @@ HiveAAC by Aro: https://raw.githubusercontent.com/rexjohannes/vulture-settings/m
 
 ComugermsOPV2 by Maxking2308 aka MaxCrackt: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/ComugermsOPV2.txt
 
+Pika by Chris: https://raw.githubusercontent.com/iotacb/vulture-auto-configs/master/configs/Pika
+
+Jartex by Chris: https://raw.githubusercontent.com/iotacb/vulture-auto-configs/master/configs/Jartex
+
+HiveMC by Chris: https://raw.githubusercontent.com/iotacb/vulture-auto-configs/master/configs/HiveMC
+
+Mineplex by SubBoss: https://raw.githubusercontent.com/ByLethaj/VultureConfig/master/Mineplex.txt
+
+RewiBW by SubBoss: https://raw.githubusercontent.com/ByLethaj/VultureConfig/master/RewiBW.txt
+
 Your? Open a Issus!
 
 ### Unstable Vulture-Configs
