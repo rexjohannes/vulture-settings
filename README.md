@@ -30,7 +30,17 @@ Legit: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/leg
 
 ### Other Vulture-Configs
 
+Redesky0 by hopless: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/Redesky0.txt
 
+HiveNCP by Aro: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveNCP.txt
+
+Hive MCSG by cryze: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveMCSG.txt
+
+HiveAAC by Aro: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveAAC.txt
+
+ComugermsOPV2 by Maxking2308 aka MaxCrackt: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/ComugermsOPV2.txt
+
+Your? Open a Issus!
 
 
 ### How to use:
