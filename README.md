@@ -14,6 +14,8 @@ MCCentral: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master
 
 HiveSkyGiants: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveSkyGiants.txt
 
+Hypixel: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HypixelV1.txt
+
 ### Vulture-Configs by ReapeX
 
 RedeSky V3(Hotfix): http://configs.vulture-client.info/478595449708871690/RedeSky_V3Hotfix.txt
