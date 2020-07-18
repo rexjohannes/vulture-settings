@@ -48,12 +48,6 @@ RewiBW by SubBoss: https://raw.githubusercontent.com/ByLethaj/VultureConfig/mast
 
 Your? Open a Issus!
 
-### Unstable Vulture-Configs
-
-Gomme Alpha: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/gommealpha.txt
-
-BlockDrop: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/blockdrop.txt
-
 ### How to use:
 
 Use .config load [link] at Vulture to load the Config!
