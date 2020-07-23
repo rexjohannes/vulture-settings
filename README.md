@@ -16,6 +16,8 @@ HiveSkyGiants: https://raw.githubusercontent.com/rexjohannes/vulture-settings/ma
 
 HiveSky + BedWars: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveWars.txt
 
+HiveWarsV2: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveWarsV2.txt
+
 ### Vulture-Configs by ReapeX
 
 RedeSky V3(Hotfix): http://configs.vulture-client.info/478595449708871690/RedeSky_V3Hotfix.txt
