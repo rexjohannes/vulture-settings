@@ -4,6 +4,8 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
+CubeV7: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV7.txt
+
 RedeSky: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/RedeSky.txt
 
 SpieleOase: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/SpieleOase.txt
@@ -69,7 +71,7 @@ Use .config load [link] at Vulture to load the Config!
 ### Changelog:
 
 - Added RedeSky Config
-- Added Hive SkyGiants
+- Added cubeV7
 - Added SpieleOase
 - Added FAQ
 - Added MCCentral 
