@@ -26,6 +26,8 @@ Legit: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/leg
 
 ### Other Vulture-Configs
 
+CubeV5 by Chris: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/cubev5.txt
+
 Redesky0 by hopless: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/Redesky0.txt
 
 Hive MCSG by cryze: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveMCSG.txt
