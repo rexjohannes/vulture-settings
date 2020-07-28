@@ -4,15 +4,11 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
-CubeV6: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV6.txt
-
 RedeSky: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/RedeSky.txt
 
 SpieleOase: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/SpieleOase.txt
 
 MCCentral: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/mccentral.txt
-
-HiveSkyGiants: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveSkyGiants.txt
 
 HiveSky + BedWars: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveWars.txt
 
