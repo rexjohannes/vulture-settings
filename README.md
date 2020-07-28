@@ -28,8 +28,6 @@ Legit: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/leg
 
 Redesky0 by hopless: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/Redesky0.txt
 
-HiveNCP by Aro: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveNCP.txt
-
 Hive MCSG by cryze: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveMCSG.txt
 
 HiveAAC by Aro: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/HiveAAC.txt
