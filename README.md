@@ -6,6 +6,8 @@ Vulture: https://vulture-client.info/
 
 CubeV7: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV7.txt
 
+CubeV7(Save): https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV7Save.txt
+
 RedeSky: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/RedeSky.txt
 
 SpieleOase: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/SpieleOase.txt
