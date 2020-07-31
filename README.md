@@ -4,6 +4,8 @@ Vulture: https://vulture-client.info/
 
 ### Vulture-Configs by rexjohannes98
 
+CubeV8: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV8.txt
+
 CubeV7: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV7.txt
 
 CubeV7(Save): https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV7Save.txt
