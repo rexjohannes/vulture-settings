@@ -2,6 +2,10 @@
 
 Vulture: https://vulture-client.info/
 
+### Vulture-Configs by ReapeX, SubBoss and rexjohannes98
+
+
+
 ### Vulture-Configs by rexjohannes98
 
 CubeV8: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/CubeV8.txt
