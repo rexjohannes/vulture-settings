@@ -56,6 +56,10 @@ Mineplex by SubBoss: https://raw.githubusercontent.com/ByLethaj/VultureConfig/ma
 
 RewiBW by SubBoss: https://raw.githubusercontent.com/ByLethaj/VultureConfig/master/RewiBW.txt
 
+Hypixelv2 by Chris: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/hypixelv2.txt
+
+GommeV1 by Chris: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/GommeV1.txt
+
 Your? Open a Issus!
 
 ### How to use:
