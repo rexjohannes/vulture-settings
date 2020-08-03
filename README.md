@@ -26,9 +26,9 @@ HiveWarsV2: https://raw.githubusercontent.com/rexjohannes/vulture-settings/maste
 
 ### Vulture-Configs by ReapeX
 
-RedeSky V3(Hotfix): http://configs.vulture-client.info/478595449708871690/RedeSky_V3Hotfix.txt
+RedeSky V3(Hotfix): https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/RedeSky_V3Hotfix.txt
 
-McCentralV1: http://configs.vulture-client.info/478595449708871690/McCentral_V1.txt
+McCentralV1: https://raw.githubusercontent.com/rexjohannes/vulture-settings/master/McCentral_V1.txt
 
 ### Vulture-Configs by ReapeX and rexjohannes98
 
