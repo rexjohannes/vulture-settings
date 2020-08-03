@@ -1,0 +1,139 @@
+ConfigName#ReapeX
+InventoryCleaner:InventoryCleanerOpen inventory:true
+InventoryCleaner:InventoryCleanerSort inventory:true
+InventoryCleaner:InventoryCleanerDelay:184.0
+InventoryCleaner:InventoryCleanerSword slot:1.0
+InventoryCleaner:InventoryCleanerShow in List:true
+ChestStealer:ChestStealerClose screen:true
+ChestStealer:ChestStealerCheck name:true
+ChestStealer:ChestStealerDelay:82.0
+ChestStealer:ChestStealerOpening delay:41.0
+ChestStealer:ChestStealerShow in List:true
+AutoArmor:AutoArmorOpen inventory:true
+AutoArmor:AutoArmorDelay:286.0
+AutoArmor:AutoArmorShow in List:true
+InventoryWalk:InventoryWalkShow in List:true
+AutoRespawn:AutoRespawnShow in List:true
+TerrainSpeed:TerrainSpeedKeep speed:true
+TerrainSpeed:TerrainSpeedFactor:0.8
+TerrainSpeed:TerrainSpeedShow in List:true
+InfiniteReach:InfiniteReachHit delay:429.0
+InfiniteReach:InfiniteReachAura:false
+InfiniteReach:InfiniteReachBlockPos:false
+InfiniteReach:InfiniteReachAura players:true
+InfiniteReach:InfiniteReachAura animals:false
+InfiniteReach:InfiniteReachAura mobs:false
+InfiniteReach:InfiniteReachShow in List:true
+NameProtect:NameProtectShow in List:true
+AutoRegister:AutoRegisterShow in List:true
+Performance:PerformanceShow in List:true
+NoFall:NoFallModes:Vanilla
+NoFall:NoFallShow in List:true
+PotionSaver:PotionSaverShow in List:true
+Velocity:VelocityModes:NCP
+Velocity:VelocityHorizontal:0.8
+Velocity:VelocityVertical:0.8
+Velocity:VelocityShow in List:true
+Regenerate:RegeneratePackets:1.0
+Regenerate:RegenerateRetry delay:4000.0
+Regenerate:RegenerateModes:Packet
+Regenerate:RegenerateShow in List:true
+AutoClicker:AutoClickerMax CPS:18.0
+AutoClicker:AutoClickerMin CPS:15.0
+AutoClicker:AutoClickerPlace:true
+AutoClicker:AutoClickerShow in List:true
+BowAimbot:BowAimbotAimlock:false
+BowAimbot:BowAimbotAuto release:true
+BowAimbot:BowAimbotPrediction factor:5.9
+BowAimbot:BowAimbotShow in List:true
+GhostHand:GhostHandShow in List:true
+WorldTime:WorldTimeTime:10.0
+WorldTime:WorldTimeShow in List:true
+ChestAura:ChestAuraRange:4.0
+ChestAura:ChestAuraThrough walls:false
+ChestAura:ChestAuraShow in List:true
+FreeCam:FreeCamNoClip:true
+FreeCam:FreeCamShow in List:true
+CubeClip:CubeClipShow in List:true
+AutoTool:AutoToolSilent:true
+AutoTool:AutoToolShow in List:true
+Teleport:TeleportShow in List:true
+Scaffold:ScaffoldSprint:true
+Scaffold:ScaffoldSneak:false
+Scaffold:ScaffoldSilent:true
+Scaffold:ScaffoldTimer:true
+Scaffold:ScaffoldNo swing:true
+Scaffold:ScaffoldDisplay block count:false
+Scaffold:ScaffoldDelay:20.0
+Scaffold:ScaffoldTimer speed:1.9
+Scaffold:ScaffoldModes:Redesky
+Scaffold:ScaffoldShow in List:true
+Aura:AuraAuto block:true
+Aura:AuraPredict:false
+Aura:AuraAimlock:false
+Aura:AuraParticles:false
+Aura:AuraRaycast:true
+Aura:AuraThrough walls:false
+Aura:AuraStrafing:false
+Aura:AuraNo swing:false
+Aura:AuraStop sprint:false
+Aura:AuraInfo:true
+Aura:AuraClose screen:false
+Aura:AuraDisable on death:true
+Aura:AuraFail hit:false
+Aura:AuraPlayers:true
+Aura:AuraAnimals:false
+Aura:AuraMobs:false
+Aura:AuraRange:4.7
+Aura:AuraMax CPS:20.0
+Aura:AuraMin CPS:16.0
+Aura:AuraMax turn speed:64.0
+Aura:AuraMin turn speed:48.0
+Aura:AuraFOV:180.0
+Aura:AuraFail hit count:2.0
+Aura:AuraWall range:1.5
+Aura:AuraESP modes:Line
+Aura:AuraShow in List:true
+FastUse:FastUseNot moving:false
+FastUse:FastUsePackets:1.0
+FastUse:FastUseShow in List:true
+NoSlow:NoSlowStrafe factor:1.0
+NoSlow:NoSlowForward factor:1.0
+NoSlow:NoSlowPacket:true
+NoSlow:NoSlowShow in List:true
+Friends:FriendsCancel attacks:true
+Friends:FriendsShow in List:true
+Fucker:FuckerModes:Egg
+Fucker:FuckerRange:4.0
+Fucker:FuckerShow in List:true
+Teams:TeamsShow in List:true
+Speed:SpeedModes:Redesky
+Speed:SpeedShow in List:true
+Tower:TowerSilent:true
+Tower:TowerTimer:true
+Tower:TowerAuto centering:false
+Tower:TowerNo swing:false
+Tower:TowerDisplay block count:true
+Tower:TowerDelay:0.0
+Tower:TowerTimer speed:4.0
+Tower:TowerModes:Motion
+Tower:TowerShow in List:true
+Strafe:StrafeShow in List:true
+Reach:ReachAttack range:3.6
+Reach:ReachInteract range:5.5
+Reach:ReachShow in List:true
+Sprint:SprintAll directions:false
+Sprint:SprintShow in List:true
+Blink:BlinkShow in List:true
+Step:StepHeight:1.0
+Step:StepShow in List:true
+Clip:ClipModes:Vertical
+Clip:ClipNegative:true
+Clip:ClipStrength:0.5
+Clip:ClipShow in List:true
+Fly:FlyModes:Redesky
+Fly:FlyAir bobbing:true
+Fly:FlyMotion y:2.7
+Fly:FlyBoost:1.0
+Fly:FlyCube boost motion y:0.31
+Fly:FlyShow in List:true
